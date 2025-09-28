@@ -1,0 +1,97 @@
+
+*{
+    border: 0;
+    margin: 0;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+}
+.section-two{ 
+color: black;
+background-color: white;
+width: 234px;
+border: solid black;
+text-align: center;
+margin-left: 170px;
+margin-top: 0;
+display: inline-block;
+}
+
+.section-three{ 
+color: black;
+background-color: white;
+width: 234px;
+border: solid black;
+text-align: center;
+margin-left: 15px;
+margin-top: 0;
+display: inline-block;
+}
+
+.section-four{ 
+color: black;
+background-color: white;
+width: 234px;
+border: solid black;
+text-align: center;
+margin-left: 15px;
+margin-top: 0;
+display: inline-block;
+}
+
+.section-five{ 
+color: black;
+background-color: white;
+width: 234px;
+border: solid black;
+text-align: center;
+margin-left: 15px;
+margin-top: 0;
+display: inline-block;
+}
+
+.section-two__button,.section-three__button,.section-four__button,.section-five__button{
+    background-color: black;
+    color: white;
+    border: solid black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.section-six{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+}
+
+.contact-form{
+    text-align: center;
+    margin: 50px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.center-table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+.contact-form__name{
+    background-color: white;
+}
+.contact-form__button{
+    background-color: yellow;
+    padding-left: 200px;
+    padding-right:200px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 1px;
+}
